@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "totalResults": 21,
+  "articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "Youm7.com"
+    },
+    "author": null,
+    "title": "البنك الأهلى المصري يحذر عملاءه من عمليات نصب لسرقة بياناتهم - اليوم السابع",
+    "description": "أصدر البنك الأهلي المصري بيانا بهدف توعية عملائه وكافة المواطنين بأن أعمال الاحتيال لها أشكال متنوعة، حيث أشار البنك إلى ضرورة الحذر من جانب العملاء في الحفاظ على بياناتهم الشخصية أو البنكية",
+    "url": "https://www.youm7.com/story/2021/8/22/البنك-الأهلى-المصري-يحذر-عملاءه-من-عمليات-نصب-لسرقة-بياناتهم/5433476",
+    "urlToImage": "https://img.youm7.com/large/201611040529262926.jpg",
+    "publishedAt": "2021-08-22T11:55:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ahram.org.eg"
+    },
+    "author": null,
+    "title": "أسعار الذهب اليوم الأحد 22 أغسطس 2021 في مصر - بوابة الأهرام",
+    "description": "",
+    "url": "https://gate.ahram.org.eg/News/2922088.aspx",
+    "urlToImage": "https://gate.ahram.org.eg/Media/Banners/Isticker.jpg",
+    "publishedAt": "2021-08-22T10:10:00Z",
+    "content": null
+  }
+
+]
+}
