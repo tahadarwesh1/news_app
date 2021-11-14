@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_app/components/components.dart';
 import 'package:news_app/cubit/cubit.dart';
 import 'package:news_app/cubit/states.dart';
 import 'package:news_app/modules/search/search_screen.dart';
+import 'package:news_app/shared/components/components.dart';
 import 'package:news_app/shared/main_cubit/cubit.dart';
 
 class NewsLayout extends StatelessWidget {
